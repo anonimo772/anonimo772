@@ -29,7 +29,7 @@ usuario. <br>
 Un desarrollo para una empresa la cual se registra un administrador y puedes registrar dispositivos su a cargo y varios de sus aditamentos y características
 con la ayuda de una ia donde puedes reducir los tiempo para poner sus características.<br>
 
-### [ 🚘AUTOBOY inventario de Dotación ](https://github.com/software-autoboy/Inventario-Dotacion)<br>
+### [👔 AUTOBOY inventario de Dotación ](https://github.com/software-autoboy/Inventario-Dotacion)<br>
 Este desarrollo para la misma empresa se enfoca en el control del inventario de las dotaciones, dado el problema que llegaban en grandes cantidades y no tenían un software se desarrollo con las 
 mismas funciones que su hermano mayor inventario de dispositivos con un login, un menu principal donde se pueden agregar las tallas y diferentes características 
 que puede tener una prenda a si como el que la poesee entre otras funciones 
