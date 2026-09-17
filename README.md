@@ -17,7 +17,7 @@
 <p>
 
 ## 📝 Proyectos recientes
-### [💎 LICEA: ](https://github.com/anonimo772/LICEA)<br>
+### [💎 LICEA: ](https://github.com/anonimo772/Licea_Movil.git)<br>
 una forma de mejorar las calificaiones saca de resultados y un mejor listamientos de los estudiantes, con algunas inclusiones de otros softwares como el de classrom tambien se puede 
 añadir tareas y sus respectivos archivos, una ia que te puede ayudar con recordatorios y con tus tareas de investigación enfocado en la ayuda institucional 
 <br>
