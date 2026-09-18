@@ -9,7 +9,7 @@
 
 - 🌱 Mi nombre es Esneider, o tambien rojito, y esta es mi pagina de git-hub
 - ⚡ Domino el html y tambien un poco de php 
-- 😄 eh usado varias veces  CSS, JavaScript, ReactJS, NodeJS para desarrollos que puedes ver en mi perfil.
+- 😄 eh usado varias veces  CSS, JavaScript, NodeJS, SQL para desarrollos que puedes ver en mi perfil.
 - 💖 amo codificar  pero amo mas los resultados que da el codigo 
 - 🔥 para mi nunca es tarde para aprender 
 
